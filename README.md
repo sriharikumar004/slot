@@ -75,7 +75,7 @@ Execute the program using runserver command.
             <td>NUMERICAL METHODS</td>
             <td>FREE SLOT</td>
             <td>FUNDAMENTALS OF WEB</td>
-            <td>FPHYSICS</td>
+            <td>PHYSICS</td>
             <td>PRINCIPLES OF CHEMISTRY</td>
         </tr>
     </table>
